@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sze-ga
 - 👀 I’m interested in Industrial automation, Python, Web-Development (HTML, CSS, NodeJS)
-- 🌱 I’m currently learning Automation Technician
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m finished my study on June, 2022, currently working as an Automation SW engineer in the wind turbine (not windmill!!!) industry.
+     I'm working mainly with Siemens PLCs and Siemens TIA portal
+- 💞️I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
